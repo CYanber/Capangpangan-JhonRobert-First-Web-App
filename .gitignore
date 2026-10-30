@@ -1,0 +1,13 @@
+node_modules/
+dist/
+target/
+data/
+*.mv.db
+*.trace.db
+.env
+.env.local
+.idea/
+.vscode/
+*.iml
+*.log
+.DS_Store
